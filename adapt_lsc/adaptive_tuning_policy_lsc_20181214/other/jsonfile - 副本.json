@@ -1,0 +1,482 @@
+{
+  "Key0000": [
+    "TestTarget","lsc.D65.700lux.Y_shading.worst",
+    "Flag","1",
+    "Score","10.00"
+  ],
+  "Key0001": [
+      "TestTarget", "lsc.D65.300lux.Y_shading.worst",
+      "Flag","1",
+      "Score","13.00"
+  ],
+  "Key0002": [
+      "TestTarget", "lsc.D65.700lux.Y_shading.mean",
+      "Flag", "1",
+      "Score","16.00"
+  ],
+  "Key0003": [
+      "TestTarget","lsc.D65.300lux.Y_shading.mean",
+      "Flag","1",
+      "Score","19.00"
+  ],
+  "Key0004": [
+      "TestTarget", "lsc.D50.700lux.Y_shading.worst",
+      "Flag", "1",
+      "Score", "22.00"
+  ],
+  "Key0005": [
+      "TestTarget", "lsc.D50.300lux.Y_shading.worst",
+      "Flag", "1",
+      "Score", "25.00"
+  ],
+  "Key0006": [
+      "TestTarget", "lsc.D50.20lux.Y_shading.worst",
+      "Flag", "1",
+      "Score", "28.00"
+  ],
+  "Key0007": [
+      "TestTarget", "lsc.D50.700lux.Y_shading.mean",
+      "Flag", "1",
+      "Score", "31.00"
+  ],
+  "Key0008": [
+      "TestTarget", "lsc.D50.300lux.Y_shading.mean",
+      "Flag", "1",
+      "Score", "34.00"
+  ],
+  "Key0009": [
+      "TestTarget", "lsc.D50.20lux.Y_shading.mean",
+      "Flag", "1",
+      "Score","37.00"
+  ],
+  "Key0010": [
+      "TestTarget", "lsc.CWF.700lux.Y_shading.worst",
+      "Flag", "1",
+      "Score", "40.00"
+  ],
+  "Key0011": [
+      "TestTarget", "lsc.CWF.300lux.Y_shading.worst",
+      "Flag","1",
+      "Score", "43.00"
+  ],
+  "Key0012": [
+      "TestTarget", "lsc.CWF.20lux.Y_shading.worst",
+      "Flag", "1",
+      "Score", "46.00"
+  ],
+  "Key0013": [
+      "TestTarget","lsc.CWF.700lux.Y_shading.mean",
+      "Flag", "1",
+      "Score", "49.00"
+  ],
+  "Key0014": [
+      "TestTarget", "lsc.CWF.300lux.Y_shading.mean",
+      "Flag", "1",
+      "Score", "52.00"
+  ],
+  "Key0015": [
+      "TestTarget", "lsc.CWF.20lux.Y_shading.mean",
+      "Flag", "1",
+      "Score", "55.00"
+  ],
+  "Key0016": [
+      "TestTarget", "lsc.TL84.700lux.Y_shading.worst",
+      "Flag", "1",
+      "Score", "58.00"
+  ],
+  "Key0017": [
+      "TestTarget", "lsc.TL84.300lux.Y_shading.worst",
+      "Flag", "1",
+      "Score", "61.00"
+  ],
+  "Key0018": [
+      "TestTarget", "lsc.TL84.20lux.Y_shading.worst",
+      "Flag", "1",
+      "Score", "64.00"
+  ],
+  "Key0019": [
+      "TestTarget", "lsc.TL84.700lux.Y_shading.mean",
+      "Flag", "1",
+      "Score","67.00"
+  ],
+  "Key0020": [
+      "TestTarget", "lsc.TL84.300lux.Y_shading.mean",
+      "Flag", "1",
+      "Score", "70.00"
+  ],
+  "Key0021": [
+      "TestTarget", "lsc.TL84.20lux.Y_shading.mean",
+      "Flag","1",
+      "Score", "73.00"
+  ],
+  "Key0022": [
+      "TestTarget", "lsc.A.700lux.Y_shading.worst",
+      "Flag", "1",
+      "Score", "76.00"
+  ],
+  "Key0023": [
+      "TestTarget","lsc.A.300lux.Y_shading.worst",
+      "Flag", "1",
+      "Score", "79.00"
+  ],
+  "Key0024": [
+      "TestTarget", "lsc.A.20lux.Y_shading.worst",
+      "Flag", "1",
+      "Score", "82.00"
+  ],
+  "Key0025": [
+      "TestTarget", "lsc.A.700lux.Y_shading.mean",
+      "Flag", "1",
+      "Score", "85.00"
+  ],
+  "Key0026": [
+      "TestTarget", "lsc.A.300lux.Y_shading.mean",
+      "Flag", "1",
+      "Score", "88.00"
+  ],
+  "Key0027": [
+      "TestTarget", "lsc.A.20lux.Y_shading.mean",
+      "Flag", "1",
+      "Score", "91.00"
+  ],
+  "Key0028": [
+      "TestTarget", "lsc.H.300lux.Y_shading.worst",
+      "Flag", "1",
+      "Score", "94.00"
+  ],
+  "Key0029": [
+      "TestTarget", "lsc.H.20lux.Y_shading.worst",
+      "Flag", "1",
+      "Score","97.00"
+  ],
+  "Key0030": [
+      "TestTarget", "lsc.H.300lux.Y_shading.mean",
+      "Flag", "1",
+      "Score", "100.00"
+  ],
+  "Key0031": [
+      "TestTarget", "lsc.H.20lux.Y_shading.mean",
+      "Flag","1",
+      "Score", "103.00"
+  ],
+  "Key1000": [
+      "TestTarget", "lsc.D65.700lux.Color_shading.RG..mean",
+      "Flag", "1",
+      "Score", "10.00"
+  ],
+  "Key1001": [
+      "TestTarget","lsc.D65.700lux.Color_shading.RG.min",
+      "Flag", "1",
+      "Score", "12.00"
+  ],
+  "Key1002": [
+      "TestTarget", "lsc.D65.700lux.Color_shading.BG..mean",
+      "Flag", "1",
+      "Score", "14.00"
+  ],
+  "Key1003": [
+      "TestTarget", "lsc.D65.700lux.Color_shading.BG.min",
+      "Flag", "1",
+      "Score", "16.00"
+  ],
+  "Key1004": [
+      "TestTarget", "lsc.D65.300lux.Color_shading.RG..mean",
+      "Flag", "1",
+      "Score", "18.00"
+  ],
+  "Key1005": [
+      "TestTarget", "lsc.D65.300lux.Color_shading.RG.min",
+      "Flag", "1",
+      "Score", "20.00"
+  ],
+  "Key1006": [
+      "TestTarget", "lsc.D65.300lux.Color_shading.BG..mean",
+      "Flag", "1",
+      "Score", "22.00"
+  ],
+  "Key1007": [
+      "TestTarget", "lsc.D65.300lux.Color_shading.BG.min",
+      "Flag", "1",
+      "Score","24.00"
+  ],
+  "Key1008": [
+      "TestTarget", "lsc.D50.700lux.Color_shading.RG..mean",
+      "Flag", "1",
+      "Score", "26.00"
+  ],
+  "Key1009": [
+      "TestTarget", "lsc.D50.700lux.Color_shading.RG.min",
+      "Flag","1",
+      "Score", "28.00"
+  ],
+  "Key1010": [
+      "TestTarget", "lsc.D50.700lux.Color_shading.BG..mean",
+      "Flag", "1",
+      "Score", "30.00"
+  ],
+  "Key1011": [
+      "TestTarget","lsc.D50.700lux.Color_shading.BG.min",
+      "Flag", "1",
+      "Score", "32.00"
+  ],
+  "Key1012": [
+      "TestTarget", "lsc.D50.300lux.Color_shading.RG..mean",
+      "Flag", "1",
+      "Score", "34.00"
+  ],
+  "Key1013": [
+      "TestTarget", "lsc.D50.300lux.Color_shading.RG.min",
+      "Flag", "1",
+      "Score", "36.00"
+  ],
+  "Key1014": [
+      "TestTarget", "lsc.D50.300lux.Color_shading.BG..mean",
+      "Flag", "1",
+      "Score", "38.00"
+  ],
+  "Key1015": [
+      "TestTarget", "lsc.D50.300lux.Color_shading.BG.min",
+      "Flag", "1",
+      "Score", "40.00"
+  ],
+  "Key1016": [
+      "TestTarget", "lsc.D50.20lux.Color_shading.RG..mean",
+      "Flag", "1",
+      "Score", "42.00"
+  ],
+  "Key1017": [
+      "TestTarget", "lsc.D50.20lux.Color_shading.RG.min",
+      "Flag", "1",
+      "Score","44.00"
+  ],
+  "Key1018": [
+      "TestTarget", "lsc.D50.20lux.Color_shading.BG..mean",
+      "Flag", "1",
+      "Score", "46.00"
+  ],
+  "Key1019": [
+      "TestTarget", "lsc.D50.20lux.Color_shading.BG.min",
+      "Flag","1",
+      "Score", "48.00"
+  ],
+  "Key1020": [
+      "TestTarget", "lsc.CWF.700lux.Color_shading.RG..mean",
+      "Flag", "1",
+      "Score", "50.00"
+  ],
+  "Key1021": [
+      "TestTarget","lsc.CWF.700lux.Color_shading.RG.min",
+      "Flag", "1",
+      "Score", "52.00"
+  ],
+  "Key1022": [
+      "TestTarget", "lsc.CWF.700lux.Color_shading.BG..mean",
+      "Flag", "1",
+      "Score", "54.00"
+  ],
+  "Key1023": [
+      "TestTarget", "lsc.CWF.700lux.Color_shading.BG.min",
+      "Flag", "1",
+      "Score", "56.00"
+  ],
+  "Key1024": [
+      "TestTarget", "lsc.CWF.300lux.Color_shading.RG..mean",
+      "Flag", "1",
+      "Score", "58.00"
+  ],
+  "Key1025": [
+      "TestTarget", "lsc.CWF.300lux.Color_shading.RG.min",
+      "Flag", "1",
+      "Score", "60.00"
+  ],
+  "Key1026": [
+      "TestTarget", "lsc.CWF.300lux.Color_shading.BG..mean",
+      "Flag", "1",
+      "Score", "62.00"
+  ],
+  "Key1027": [
+      "TestTarget", "lsc.CWF.300lux.Color_shading.BG.min",
+      "Flag", "1",
+      "Score","64.00"
+  ],
+  "Key1028": [
+      "TestTarget", "lsc.CWF.20lux.Color_shading.RG..mean",
+      "Flag", "1",
+      "Score", "66.00"
+  ],
+  "Key1029": [
+      "TestTarget", "lsc.CWF.20lux.Color_shading.RG.min",
+      "Flag","1",
+      "Score", "68.00"
+  ],
+  "Key1030": [
+      "TestTarget", "lsc.CWF.20lux.Color_shading.BG..mean",
+      "Flag", "1",
+      "Score", "70.00"
+  ],
+  "Key1031": [
+      "TestTarget","lsc.CWF.20lux.Color_shading.BG.min",
+      "Flag", "1",
+      "Score", "72.00"
+  ],
+  "Key1032": [
+      "TestTarget", "lsc.TL84.700lux.Color_shading.RG..mean",
+      "Flag", "1",
+      "Score", "74.00"
+  ],
+  "Key1033": [
+      "TestTarget", "lsc.TL84.700lux.Color_shading.RG.min",
+      "Flag", "1",
+      "Score", "76.00"
+  ],
+  "Key1034": [
+      "TestTarget", "lsc.TL84.700lux.Color_shading.BG..mean",
+      "Flag", "1",
+      "Score", "78.00"
+  ],
+  "Key1035": [
+      "TestTarget", "lsc.TL84.700lux.Color_shading.BG.min",
+      "Flag", "1",
+      "Score", "80.00"
+  ],
+  "Key1036": [
+      "TestTarget", "lsc.TL84.300lux.Color_shading.RG..mean",
+      "Flag", "1",
+      "Score", "82.00"
+  ],
+  "Key1037": [
+      "TestTarget", "lsc.TL84.300lux.Color_shading.RG.min",
+      "Flag", "1",
+      "Score","84.00"
+  ],
+  "Key1038": [
+      "TestTarget", "lsc.TL84.300lux.Color_shading.BG..mean",
+      "Flag", "1",
+      "Score", "86.00"
+  ],
+  "Key1039": [
+      "TestTarget", "lsc.TL84.300lux.Color_shading.BG.min",
+      "Flag","1",
+      "Score", "88.00"
+  ],
+  "Key1040": [
+      "TestTarget", "lsc.TL84.20lux.Color_shading.RG..mean",
+      "Flag", "1",
+      "Score", "90.00"
+  ],
+  "Key1041": [
+      "TestTarget","lsc.TL84.20lux.Color_shading.RG.min",
+      "Flag", "1",
+      "Score", "92.00"
+  ],
+  "Key1042": [
+      "TestTarget", "lsc.TL84.20lux.Color_shading.BG..mean",
+      "Flag", "1",
+      "Score", "94.00"
+  ],
+  "Key1043": [
+      "TestTarget", "lsc.TL84.20lux.Color_shading.BG.min",
+      "Flag", "1",
+      "Score", "96.00"
+  ],
+  "Key1044": [
+      "TestTarget", "lsc.A.700lux.Color_shading.RG..mean",
+      "Flag", "1",
+      "Score", "98.00"
+  ],
+  "Key1045": [
+      "TestTarget", "lsc.A.700lux.Color_shading.RG.min",
+      "Flag", "1",
+      "Score", "100.00"
+  ],
+  "Key1046": [
+      "TestTarget", "lsc.A.700lux.Color_shading.BG..mean",
+      "Flag", "1",
+      "Score", "102.00"
+  ],
+  "Key1047": [
+      "TestTarget", "lsc.A.700lux.Color_shading.BG.min",
+      "Flag", "1",
+      "Score","104.00"
+  ],
+  "Key1048": [
+      "TestTarget", "lsc.A.300lux.Color_shading.RG.ma",
+      "Flag", "1",
+      "Score", "106.00"
+  ],
+  "Key1049": [
+      "TestTarget", "lsc.A.300lux.Color_shading.RG.min",
+      "Flag","1",
+      "Score", "108.00"
+  ],
+  "Key1050": [
+      "TestTarget", "lsc.A.300lux.Color_shading.BG.ma",
+      "Flag", "1",
+      "Score", "110.00"
+  ],
+  "Key1051": [
+      "TestTarget","lsc.A.300lux.Color_shading.BG.min",
+      "Flag", "1",
+      "Score", "112.00"
+  ],
+  "Key1052": [
+      "TestTarget", "lsc.A.20lux.Color_shading.RG..mean",
+      "Flag", "1",
+      "Score", "114.00"
+  ],
+  "Key1053": [
+      "TestTarget", "lsc.A.20lux.Color_shading.RG.min",
+      "Flag", "1",
+      "Score", "116.00"
+  ],
+  "Key1054": [
+      "TestTarget", "lsc.A.20lux.Color_shading.BG..mean",
+      "Flag", "1",
+      "Score", "118.00"
+  ],
+  "Key1055": [
+      "TestTarget", "lsc.A.20lux.Color_shading.BG.min",
+      "Flag", "1",
+      "Score", "120.00"
+  ],
+  "Key1056": [
+      "TestTarget", "lsc.H.300lux.Color_shading.RG.ma",
+      "Flag", "1",
+      "Score", "122.00"
+  ],
+  "Key1057": [
+      "TestTarget", "lsc.H.300lux.Color_shading.RG.min",
+      "Flag", "1",
+      "Score","124.00"
+  ],
+  "Key1058": [
+      "TestTarget", "lsc.H.300lux.Color_shading.BG.ma",
+      "Flag", "1",
+      "Score", "126.00"
+  ],
+  "Key1059": [
+      "TestTarget", "lsc.H.300lux.Color_shading.BG.min",
+      "Flag","1",
+      "Score", "128.00"
+  ],
+  "Key1060": [
+      "TestTarget", "lsc.H.20lux.Color_shading.RG..mean",
+      "Flag", "1",
+      "Score", "130.00"
+  ],
+  "Key1061": [
+      "TestTarget","lsc.H.20lux.Color_shading.RG.min",
+      "Flag", "1",
+      "Score", "132.00"
+  ],
+  "Key1062": [
+      "TestTarget", "lsc.H.20lux.Color_shading.BG..mean",
+      "Flag", "1",
+      "Score", "134.00"
+  ],
+  "Key1063": [
+      "TestTarget", "lsc.H.20lux.Color_shading.BG.min",
+      "Flag", "1",
+      "Score", "136.00"
+  ]
+}

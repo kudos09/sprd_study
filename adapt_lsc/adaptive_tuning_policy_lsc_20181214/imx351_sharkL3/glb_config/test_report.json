@@ -1,0 +1,88 @@
+{
+ "3A":"xxx-xxx-xxx",
+ "module":"imx351",
+ "root":"D:\test\autoCertification\",
+ "platform":"9836",
+ "Color-Shading":{
+  "D65_700lux":{
+   "B/G Min":[
+    "0.9--1.1",
+    "1.012",
+    "PASS",
+    -98,
+    "D:\test\autoCertification\output\uniformity_D65@700Lux"
+   ],
+   "R/G Min":[
+    "0.9--1.1",
+    "0.9227",
+    "PASS",
+    71.35,
+    "D:\test\autoCertification\output\uniformity_D65@700Lux"
+   ],
+   "B/G Max":[
+    "0.9--1.1",
+    "1.137",
+    "FAIL",
+    -52.6,
+    "D:\test\autoCertification\output\uniformity_D65@700Lux"
+   ],
+   "R/G Max":[
+    "0.9--1.1",
+    "0.9887",
+    "PASS",
+    98.12,
+    "D:\test\autoCertification\output\uniformity_D65@700Lux"
+   ]
+  },
+  "CWF_300lux":{
+   "B/G Min":[
+    "0.9--1.1",
+    "0.9323",
+    "PASS",
+    76.15,
+    "D:\test\autoCertification\output\uniformity_CWF@300Lux"
+   ],
+   "R/G Min":[
+    "0.9--1.1",
+    "1.002",
+    "PASS",
+    -99.67,
+    "D:\test\autoCertification\output\uniformity_CWF@300Lux"
+   ],
+   "B/G Max":[
+    "0.9--1.1",
+    "1.022",
+    "PASS",
+    -96.33,
+    "D:\test\autoCertification\output\uniformity_CWF@300Lux"
+   ],
+   "R/G Max":[
+    "0.9--1.1",
+    "1.043",
+    "PASS",
+    -88.5,
+    "D:\test\autoCertification\output\uniformity_CWF@300Lux"
+   ]
+  }
+ },
+ "Y-Shading":{
+  "D65_700lux":{
+   "0.9F":[
+    "0.75--1",
+    "0.82025",
+    "PASS",
+    71.71,
+    "D:\test\autoCertification\output\uniformity_D65@700Lux"
+   ]
+  },
+  "CWF_300lux":{
+   "0.9F":[
+    "0.75--1",
+    "0.85875",
+    "PASS",
+    78.13,
+    "D:\test\autoCertification\output\uniformity_CWF@300Lux"
+   ]
+  }
+ }
+}

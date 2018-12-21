@@ -1,0 +1,32 @@
+{
+	"list":[
+		{ "No":, "ID":, "调试模块":LSC_lnc, "参数(参考Tool)":Image Width, "Key(Zhongchang)":, "参数数值(十六进制)":4224, "测试类型":整体测试, "测试模块":null },
+		{ "No":, "ID":, "调试模块":LSC_lnc, "参数(参考Tool)":Image Height, "Key(Zhongchang)":, "参数数值(十六进制)":3136, "测试类型":整体测试, "测试模块":null },
+		{ "No":, "ID":, "调试模块":LSC_lnc, "参数(参考Tool)":Grid, "Key(Zhongchang)":, "参数数值(十六进制)":96, "测试类型":整体测试, "测试模块":null },
+		{ "No":, "ID":, "调试模块":LSC_lnc, "参数(参考Tool)":Lpf Radius, "Key(Zhongchang)":, "参数数值(十六进制)":16, "测试类型":整体测试, "测试模块":null },
+		{ "No":, "ID":, "调试模块":LSC_lnc, "参数(参考Tool)":Light_DNP, "Key(Zhongchang)":, "参数数值(十六进制)":0x50, "测试类型":整体测试, "测试模块":null },
+		{ "No":, "ID":, "调试模块":LSC_lnc, "参数(参考Tool)":Light_A, "Key(Zhongchang)":, "参数数值(十六进制)":0x50, "测试类型":整体测试, "测试模块":null },
+		{ "No":, "ID":, "调试模块":LSC_lnc, "参数(参考Tool)":Light_TL84, "Key(Zhongchang)":, "参数数值(十六进制)":0x50, "测试类型":整体测试, "测试模块":null },
+		{ "No":, "ID":, "调试模块":LSC_lnc, "参数(参考Tool)":Light_D65, "Key(Zhongchang)":, "参数数值(十六进制)":0x50, "测试类型":整体测试, "测试模块":null },
+		{ "No":, "ID":, "调试模块":LSC_lnc, "参数(参考Tool)":Light_CWF, "Key(Zhongchang)":, "参数数值(十六进制)":0x50, "测试类型":整体测试, "测试模块":null },
+		{ "No":, "ID":, "调试模块":LSC_alsc, "参数(参考Tool)":freq, "Key(Zhongchang)":, "参数数值(十六进制)":0x03, "测试类型":整体测试, "测试模块":null },
+		{ "No":, "ID":, "调试模块":LSC_alsc, "参数(参考Tool)":iir_weight, "Key(Zhongchang)":, "参数数值(十六进制)":0x05, "测试类型":整体测试, "测试模块":null },
+		{ "No":, "ID":, "调试模块":LSC_alsc, "参数(参考Tool)":level_r, "Key(Zhongchang)":, "参数数值(十六进制)":0x0A, "测试类型":整体测试, "测试模块":null },
+		{ "No":, "ID":, "调试模块":LSC_alsc, "参数(参考Tool)":level_b, "Key(Zhongchang)":, "参数数值(十六进制)":0x0A, "测试类型":整体测试, "测试模块":null },
+		{ "No":, "ID":, "调试模块":LSC_alsc, "参数(参考Tool)":weight_r, "Key(Zhongchang)":, "参数数值(十六进制)":0x28, "测试类型":整体测试, "测试模块":null },
+		{ "No":, "ID":, "调试模块":LSC_alsc, "参数(参考Tool)":weight_b, "Key(Zhongchang)":, "参数数值(十六进制)":0x28, "测试类型":整体测试, "测试模块":null },
+		{ "No":, "ID":, "调试模块":LSC_alsc, "参数(参考Tool)":bv2gainw_en, "Key(Zhongchang)":, "参数数值(十六进制)":0x01, "测试类型":整体测试, "测试模块":null },
+		{ "No":, "ID":, "调试模块":LSC_alsc, "参数(参考Tool)":bv2gainw_p_bv_gain[0], "Key(Zhongchang)":, "参数数值(十六进制)":0x1B58, "测试类型":整体测试, "测试模块":null },
+		{ "No":, "ID":, "调试模块":LSC_alsc, "参数(参考Tool)":bv2gainw_p_bv_gain[1], "Key(Zhongchang)":, "参数数值(十六进制)":0x1388, "测试类型":整体测试, "测试模块":null },
+		{ "No":, "ID":, "调试模块":LSC_alsc, "参数(参考Tool)":bv2gainw_p_bv_gain[2], "Key(Zhongchang)":, "参数数值(十六进制)":0x0BB8, "测试类型":整体测试, "测试模块":null },
+		{ "No":, "ID":, "调试模块":LSC_alsc, "参数(参考Tool)":bv2gainw_p_bv_gain[3], "Key(Zhongchang)":, "参数数值(十六进制)":0x07D0, "测试类型":整体测试, "测试模块":null },
+		{ "No":, "ID":, "调试模块":LSC_alsc, "参数(参考Tool)":bv2gainw_p_bv_gain[4], "Key(Zhongchang)":, "参数数值(十六进制)":0x05DC, "测试类型":整体测试, "测试模块":null },
+		{ "No":, "ID":, "调试模块":LSC_alsc, "参数(参考Tool)":bv2gainw_p_bv_gain[5], "Key(Zhongchang)":, "参数数值(十六进制)":0x00, "测试类型":整体测试, "测试模块":null },
+		{ "No":, "ID":, "调试模块":LSC_alsc, "参数(参考Tool)":bv2gainw_b_gain[0], "Key(Zhongchang)":, "参数数值(十六进制)":0xC8, "测试类型":整体测试, "测试模块":null },
+		{ "No":, "ID":, "调试模块":LSC_alsc, "参数(参考Tool)":bv2gainw_b_gain[1], "Key(Zhongchang)":, "参数数值(十六进制)":0x012C, "测试类型":整体测试, "测试模块":null },
+		{ "No":, "ID":, "调试模块":LSC_alsc, "参数(参考Tool)":bv2gainw_b_gain[2], "Key(Zhongchang)":, "参数数值(十六进制)":0x01F4, "测试类型":整体测试, "测试模块":null },
+		{ "No":, "ID":, "调试模块":LSC_alsc, "参数(参考Tool)":bv2gainw_b_gain[3], "Key(Zhongchang)":, "参数数值(十六进制)":0x0320, "测试类型":整体测试, "测试模块":null },
+		{ "No":, "ID":, "调试模块":LSC_alsc, "参数(参考Tool)":bv2gainw_b_gain[4], "Key(Zhongchang)":, "参数数值(十六进制)":0x0400, "测试类型":整体测试, "测试模块":null },
+		{ "No":, "ID":, "调试模块":LSC_alsc, "参数(参考Tool)":bv2gainw_b_gain[5], "Key(Zhongchang)":, "参数数值(十六进制)":0x0400, "测试类型":整体测试, "测试模块":null }
+	]
+}

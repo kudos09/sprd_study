@@ -1,0 +1,10 @@
+{"status":0,
+  "message":"ok",
+  "results":[
+    {"name":"park",
+      "location":{"lat":39.498402,"lng":116.007069},
+      "address":"xx road",
+      "street_id":"32541349605e7ae96ca3cc1e",
+      "detail":1,
+      "uid":"32541349605e7ae96ca3cc1e"}],
+}

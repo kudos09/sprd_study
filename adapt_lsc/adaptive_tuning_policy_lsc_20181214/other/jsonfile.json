@@ -1,0 +1,578 @@
+[
+    {
+        "TestTarget": "lsc.D65.700lux.Y_shading.worst",
+        "Flag": 1,
+        "cur_ct": 7600,
+        "Score": 70
+    },
+    {
+        "TestTarget": "lsc.D65.300lux.Y_shading.worst",
+        "Flag": -1,
+        "cur_ct": 8600,
+        "Score": 40
+    },
+    {
+        "TestTarget": "lsc.D65.700lux.Y_shading.mean",
+        "Flag": -1,
+        "cur_ct": 9300,
+        "Score": 10
+    },
+    {
+        "TestTarget": "lsc.D65.300lux.Y_shading.mean",
+        "Flag": -1,
+        "cur_ct": 7850,
+        "Score": 20
+    },
+    {
+        "TestTarget": "lsc.D50.700lux.Y_shading.worst",
+        "Flag": 1,
+        "cur_ct": 4850,
+        "Score": 65
+    },
+    {
+        "TestTarget": "lsc.D50.300lux.Y_shading.worst",
+        "Flag": -1,
+        "cur_ct": 5100,
+        "Score": 10
+    },
+    {
+        "TestTarget": "lsc.D50.20lux.Y_shading.worst",
+        "Flag": -1,
+        "cur_ct": 5250,
+        "Score": 45
+    },
+    {
+        "TestTarget": "lsc.D50.700lux.Y_shading.mean",
+        "Flag": -1,
+        "cur_ct": 5450,
+        "Score": 40
+    },
+    {
+        "TestTarget": "lsc.D50.300lux.Y_shading.mean",
+        "Flag": -1,
+        "cur_ct": 4950,
+        "Score": 50
+    },
+    {
+        "TestTarget": "lsc.D50.20lux.Y_shading.mean",
+        "Flag": 1,
+        "cur_ct": 5300,
+        "Score": 90
+    },
+    {
+        "TestTarget": "lsc.CWF.700lux.Y_shading.worst",
+        "Flag": 1,
+        "cur_ct": 4450,
+        "Score": 65
+    },
+    {
+        "TestTarget": "lsc.CWF.300lux.Y_shading.worst",
+        "Flag": 1,
+        "cur_ct": 4000,
+        "Score": 95
+    },
+    {
+        "TestTarget": "lsc.CWF.20lux.Y_shading.worst",
+        "Flag": -1,
+        "cur_ct": 4550,
+        "Score": 55
+    },
+    {
+        "TestTarget": "lsc.CWF.700lux.Y_shading.mean",
+        "Flag": -1,
+        "cur_ct": 3850,
+        "Score": 15
+    },
+    {
+        "TestTarget": "lsc.CWF.300lux.Y_shading.mean",
+        "Flag": -1,
+        "cur_ct": 4300,
+        "Score": 55
+    },
+    {
+        "TestTarget": "lsc.CWF.20lux.Y_shading.mean",
+        "Flag": 1,
+        "cur_ct": 3900,
+        "Score": 65
+    },
+    {
+        "TestTarget": "lsc.TL84.700lux.Y_shading.worst",
+        "Flag": -1,
+        "cur_ct": 3900,
+        "Score": 45
+    },
+    {
+        "TestTarget": "lsc.TL84.300lux.Y_shading.worst",
+        "Flag": -1,
+        "cur_ct": 3850,
+        "Score": 55
+    },
+    {
+        "TestTarget": "lsc.TL84.20lux.Y_shading.worst",
+        "Flag": -1,
+        "cur_ct": 3750,
+        "Score": 40
+    },
+    {
+        "TestTarget": "lsc.TL84.700lux.Y_shading.mean",
+        "Flag": -1,
+        "cur_ct": 3800,
+        "Score": 15
+    },
+    {
+        "TestTarget": "lsc.TL84.300lux.Y_shading.mean",
+        "Flag": -1,
+        "cur_ct": 3800,
+        "Score": 30
+    },
+    {
+        "TestTarget": "lsc.TL84.20lux.Y_shading.mean",
+        "Flag": -1,
+        "cur_ct": 3650,
+        "Score": 50
+    },
+    {
+        "TestTarget": "lsc.A.700lux.Y_shading.worst",
+        "Flag": 1,
+        "cur_ct": 2900,
+        "Score": 60
+    },
+    {
+        "TestTarget": "lsc.A.300lux.Y_shading.worst",
+        "Flag": 1,
+        "cur_ct": 2950,
+        "Score": 65
+    },
+    {
+        "TestTarget": "lsc.A.20lux.Y_shading.worst",
+        "Flag": 1,
+        "cur_ct": 2600,
+        "Score": 70
+    },
+    {
+        "TestTarget": "lsc.A.700lux.Y_shading.mean",
+        "Flag": 1,
+        "cur_ct": 3300,
+        "Score": 70
+    },
+    {
+        "TestTarget": "lsc.A.300lux.Y_shading.mean",
+        "Flag": 1,
+        "cur_ct": 2650,
+        "Score": 60
+    },
+    {
+        "TestTarget": "lsc.A.20lux.Y_shading.mean",
+        "Flag": -1,
+        "cur_ct": 3150,
+        "Score": 25
+    },
+    {
+        "TestTarget": "lsc.H.300lux.Y_shading.worst",
+        "Flag": -1,
+        "cur_ct": 2350,
+        "Score": 45
+    },
+    {
+        "TestTarget": "lsc.H.20lux.Y_shading.worst",
+        "Flag": 1,
+        "cur_ct": 1850,
+        "Score": 75
+    },
+    {
+        "TestTarget": "lsc.H.300lux.Y_shading.mean",
+        "Flag": 1,
+        "cur_ct": 1550,
+        "Score": 60
+    },
+    {
+        "TestTarget": "lsc.H.20lux.Y_shading.mean",
+        "Flag": 1,
+        "cur_ct": 2100,
+        "Score": 65
+    },
+    {
+        "TestTarget": "lsc.D65.700lux.Color_shading.RG.max",
+        "Flag": 1,
+        "cur_ct": 5700,
+        "Score": 60
+    },
+    {
+        "TestTarget": "lsc.D65.700lux.Color_shading.RG.min",
+        "Flag": -1,
+        "cur_ct": 7550,
+        "Score": 25
+    },
+    {
+        "TestTarget": "lsc.D65.700lux.Color_shading.BG.max",
+        "Flag": 1,
+        "cur_ct": 7000,
+        "Score": 65
+    },
+    {
+        "TestTarget": "lsc.D65.700lux.Color_shading.BG.min",
+        "Flag": -1,
+        "cur_ct": 5800,
+        "Score": 20
+    },
+    {
+        "TestTarget": "lsc.D65.300lux.Color_shading.RG.max",
+        "Flag": -1,
+        "cur_ct": 6250,
+        "Score": 45
+    },
+    {
+        "TestTarget": "lsc.D65.300lux.Color_shading.RG.min",
+        "Flag": -1,
+        "cur_ct": 8150,
+        "Score": 40
+    },
+    {
+        "TestTarget": "lsc.D65.300lux.Color_shading.BG.max",
+        "Flag": 1,
+        "cur_ct": 7700,
+        "Score": 65
+    },
+    {
+        "TestTarget": "lsc.D65.300lux.Color_shading.BG.min",
+        "Flag": 1,
+        "cur_ct": 6200,
+        "Score": 80
+    },
+    {
+        "TestTarget": "lsc.D50.700lux.Color_shading.RG.max",
+        "Flag": 1,
+        "cur_ct": 4550,
+        "Score": 90
+    },
+    {
+        "TestTarget": "lsc.D50.700lux.Color_shading.RG.min",
+        "Flag": -1,
+        "cur_ct": 4650,
+        "Score": 25
+    },
+    {
+        "TestTarget": "lsc.D50.700lux.Color_shading.BG.max",
+        "Flag": -1,
+        "cur_ct": 5250,
+        "Score": 50
+    },
+    {
+        "TestTarget": "lsc.D50.700lux.Color_shading.BG.min",
+        "Flag": 1,
+        "cur_ct": 4550,
+        "Score": 90
+    },
+    {
+        "TestTarget": "lsc.D50.300lux.Color_shading.RG.max",
+        "Flag": -1,
+        "cur_ct": 4700,
+        "Score": 55
+    },
+    {
+        "TestTarget": "lsc.D50.300lux.Color_shading.RG.min",
+        "Flag": -1,
+        "cur_ct": 5100,
+        "Score": 10
+    },
+    {
+        "TestTarget": "lsc.D50.300lux.Color_shading.BG.max",
+        "Flag": -1,
+        "cur_ct": 4900,
+        "Score": 50
+    },
+    {
+        "TestTarget": "lsc.D50.300lux.Color_shading.BG.min",
+        "Flag": -1,
+        "cur_ct": 4700,
+        "Score": 55
+    },
+    {
+        "TestTarget": "lsc.D50.20lux.Color_shading.RG.max",
+        "Flag": 1,
+        "cur_ct": 5400,
+        "Score": 95
+    },
+    {
+        "TestTarget": "lsc.D50.20lux.Color_shading.RG.min",
+        "Flag": 1,
+        "cur_ct": 4950,
+        "Score": 60
+    },
+    {
+        "TestTarget": "lsc.D50.20lux.Color_shading.BG.max",
+        "Flag": 1,
+        "cur_ct": 5200,
+        "Score": 85
+    },
+    {
+        "TestTarget": "lsc.D50.20lux.Color_shading.BG.min",
+        "Flag": -1,
+        "cur_ct": 5000,
+        "Score": 15
+    },
+    {
+        "TestTarget": "lsc.CWF.700lux.Color_shading.RG.max",
+        "Flag": -1,
+        "cur_ct": 4050,
+        "Score": 15
+    },
+    {
+        "TestTarget": "lsc.CWF.700lux.Color_shading.RG.min",
+        "Flag": -1,
+        "cur_ct": 4500,
+        "Score": 35
+    },
+    {
+        "TestTarget": "lsc.CWF.700lux.Color_shading.BG.max",
+        "Flag": 1,
+        "cur_ct": 3800,
+        "Score": 95
+    },
+    {
+        "TestTarget": "lsc.CWF.700lux.Color_shading.BG.min",
+        "Flag": 1,
+        "cur_ct": 4550,
+        "Score": 80
+    },
+    {
+        "TestTarget": "lsc.CWF.300lux.Color_shading.RG.max",
+        "Flag": -1,
+        "cur_ct": 3850,
+        "Score": 45
+    },
+    {
+        "TestTarget": "lsc.CWF.300lux.Color_shading.RG.min",
+        "Flag": -1,
+        "cur_ct": 4550,
+        "Score": 55
+    },
+    {
+        "TestTarget": "lsc.CWF.300lux.Color_shading.BG.max",
+        "Flag": -1,
+        "cur_ct": 4300,
+        "Score": 15
+    },
+    {
+        "TestTarget": "lsc.CWF.300lux.Color_shading.BG.min",
+        "Flag": -1,
+        "cur_ct": 4200,
+        "Score": 55
+    },
+    {
+        "TestTarget": "lsc.CWF.20lux.Color_shading.RG.max",
+        "Flag": 1,
+        "cur_ct": 3850,
+        "Score": 65
+    },
+    {
+        "TestTarget": "lsc.CWF.20lux.Color_shading.RG.min",
+        "Flag": 1,
+        "cur_ct": 4100,
+        "Score": 60
+    },
+    {
+        "TestTarget": "lsc.CWF.20lux.Color_shading.BG.max",
+        "Flag": 1,
+        "cur_ct": 4050,
+        "Score": 70
+    },
+    {
+        "TestTarget": "lsc.CWF.20lux.Color_shading.BG.min",
+        "Flag": 1,
+        "cur_ct": 4150,
+        "Score": 65
+    },
+    {
+        "TestTarget": "lsc.TL84.700lux.Color_shading.RG.max",
+        "Flag": -1,
+        "cur_ct": 3650,
+        "Score": 40
+    },
+    {
+        "TestTarget": "lsc.TL84.700lux.Color_shading.RG.min",
+        "Flag": -1,
+        "cur_ct": 3750,
+        "Score": 40
+    },
+    {
+        "TestTarget": "lsc.TL84.700lux.Color_shading.BG.max",
+        "Flag": 1,
+        "cur_ct": 3400,
+        "Score": 90
+    },
+    {
+        "TestTarget": "lsc.TL84.700lux.Color_shading.BG.min",
+        "Flag": 1,
+        "cur_ct": 3450,
+        "Score": 85
+    },
+    {
+        "TestTarget": "lsc.TL84.300lux.Color_shading.RG.max",
+        "Flag": -1,
+        "cur_ct": 3800,
+        "Score": 45
+    },
+    {
+        "TestTarget": "lsc.TL84.300lux.Color_shading.RG.min",
+        "Flag": -1,
+        "cur_ct": 3800,
+        "Score": 15
+    },
+    {
+        "TestTarget": "lsc.TL84.300lux.Color_shading.BG.max",
+        "Flag": -1,
+        "cur_ct": 3450,
+        "Score": 45
+    },
+    {
+        "TestTarget": "lsc.TL84.300lux.Color_shading.BG.min",
+        "Flag": -1,
+        "cur_ct": 3900,
+        "Score": 15
+    },
+    {
+        "TestTarget": "lsc.TL84.20lux.Color_shading.RG.max",
+        "Flag": -1,
+        "cur_ct": 3600,
+        "Score": 55
+    },
+    {
+        "TestTarget": "lsc.TL84.20lux.Color_shading.RG.min",
+        "Flag": -1,
+        "cur_ct": 3650,
+        "Score": 30
+    },
+    {
+        "TestTarget": "lsc.TL84.20lux.Color_shading.BG.max",
+        "Flag": 1,
+        "cur_ct": 3600,
+        "Score": 90
+    },
+    {
+        "TestTarget": "lsc.TL84.20lux.Color_shading.BG.min",
+        "Flag": 1,
+        "cur_ct": 3600,
+        "Score": 60
+    },
+    {
+        "TestTarget": "lsc.A.700lux.Color_shading.RG.max",
+        "Flag": 1,
+        "cur_ct": 3300,
+        "Score": 75
+    },
+    {
+        "TestTarget": "lsc.A.700lux.Color_shading.RG.min",
+        "Flag": -1,
+        "cur_ct": 2650,
+        "Score": 45
+    },
+    {
+        "TestTarget": "lsc.A.700lux.Color_shading.BG.max",
+        "Flag": 1,
+        "cur_ct": 3100,
+        "Score": 70
+    },
+    {
+        "TestTarget": "lsc.A.700lux.Color_shading.BG.min",
+        "Flag": -1,
+        "cur_ct": 3050,
+        "Score": 40
+    },
+    {
+        "TestTarget": "lsc.A.300lux.Color_shading.RG.max",
+        "Flag": -1,
+        "cur_ct": 2650,
+        "Score": 10
+    },
+    {
+        "TestTarget": "lsc.A.300lux.Color_shading.RG.min",
+        "Flag": 1,
+        "cur_ct": 2650,
+        "Score": 90
+    },
+    {
+        "TestTarget": "lsc.A.300lux.Color_shading.BG.max",
+        "Flag": 1,
+        "cur_ct": 2950,
+        "Score": 75
+    },
+    {
+        "TestTarget": "lsc.A.300lux.Color_shading.BG.min",
+        "Flag": 1,
+        "cur_ct": 3300,
+        "Score": 85
+    },
+    {
+        "TestTarget": "lsc.A.20lux.Color_shading.RG.max",
+        "Flag": -1,
+        "cur_ct": 3200,
+        "Score": 35
+    },
+    {
+        "TestTarget": "lsc.A.20lux.Color_shading.RG.min",
+        "Flag": 1,
+        "cur_ct": 3150,
+        "Score": 70
+    },
+    {
+        "TestTarget": "lsc.A.20lux.Color_shading.BG.max",
+        "Flag": -1,
+        "cur_ct": 2900,
+        "Score": 30
+    },
+    {
+        "TestTarget": "lsc.A.20lux.Color_shading.BG.min",
+        "Flag": -1,
+        "cur_ct": 2450,
+        "Score": 15
+    },
+    {
+        "TestTarget": "lsc.H.300lux.Color_shading.RG.max",
+        "Flag": 1,
+        "cur_ct": 1750,
+        "Score": 85
+    },
+    {
+        "TestTarget": "lsc.H.300lux.Color_shading.RG.min",
+        "Flag": -1,
+        "cur_ct": 1650,
+        "Score": 30
+    },
+    {
+        "TestTarget": "lsc.H.300lux.Color_shading.BG.max",
+        "Flag": 1,
+        "cur_ct": 1750,
+        "Score": 60
+    },
+    {
+        "TestTarget": "lsc.H.300lux.Color_shading.BG.min",
+        "Flag": 1,
+        "cur_ct": 2050,
+        "Score": 80
+    },
+    {
+        "TestTarget": "lsc.H.20lux.Color_shading.RG.max",
+        "Flag": -1,
+        "cur_ct": 1550,
+        "Score": 50
+    },
+    {
+        "TestTarget": "lsc.H.20lux.Color_shading.RG.min",
+        "Flag": 1,
+        "cur_ct": 1750,
+        "Score": 85
+    },
+    {
+        "TestTarget": "lsc.H.20lux.Color_shading.BG.max",
+        "Flag": -1,
+        "cur_ct": 1850,
+        "Score": 20
+    },
+    {
+        "TestTarget": "lsc.H.20lux.Color_shading.BG.min",
+        "Flag": -1,
+        "cur_ct": 1550,
+        "Score": 30
+    }
+]
