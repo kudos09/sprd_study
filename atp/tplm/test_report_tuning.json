@@ -1,0 +1,98 @@
+{
+  "3A": null,
+  "Color-Shading": {
+    "CWF_300lux": {
+      "B/G Max": {
+        "current_value": 1.092,
+        "path": "D:\\test\\ImageDB\\imx351_sharkL3_v0\\test\\output\\uniformity_CWF@300Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -96.33,
+        "test_result": "PASS"
+      },
+      "B/G Min": {
+        "current_value": 0.8323,
+        "path": "D:\\test\\ImageDB\\imx351_sharkL3_v0\\test\\output\\uniformity_CWF@300Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": 76.15,
+        "test_result": "FAIL"
+      },
+      "R/G Max": {
+        "current_value": 1.043,
+        "path": "D:\\test\\ImageDB\\imx351_sharkL3_v0\\test\\output\\uniformity_CWF@300Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -88.5,
+        "test_result": "FAIL"
+      },
+      "R/G Min": {
+        "current_value": 1.002,
+        "path": "D:\\test\\ImageDB\\imx351_sharkL3_v0\\test\\output\\uniformity_CWF@300Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -99.67,
+        "test_result": "PASS"
+      }
+    },
+    "D65_700lux": {
+      "B/G Max": {
+        "current_value": 1.137,
+        "path": "D:\\test\\ImageDB\\imx351_sharkL3_v0\\test\\output\\uniformity_D65@700Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -52.6,
+        "test_result": "FAIL"
+      },
+      "B/G Min": {
+        "current_value": 1.112,
+        "path": "D:\\test\\ImageDB\\imx351_sharkL3_v0\\test\\output\\uniformity_D65@700Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -98.0,
+        "test_result": "FAIL"
+      },
+      "R/G Max": {
+        "current_value": 0.7887,
+        "path": "D:\\test\\ImageDB\\imx351_sharkL3_v0\\test\\output\\uniformity_D65@700Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": 98.12,
+        "test_result": "FAIL"
+      },
+      "R/G Min": {
+        "current_value": 0.7227,
+        "path": "D:\\test\\ImageDB\\imx351_sharkL3_v0\\test\\output\\uniformity_D65@700Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": 71.35,
+        "test_result": "FAIL"
+      }
+    }
+  },
+  "Y-Shading": {
+    "CWF_300lux": {
+      "0.9F": {
+        "current_value": 0.98875,
+        "path": "D:\\test\\ImageDB\\imx351_sharkL3_v0\\test\\output\\uniformity_CWF@300Lux",
+        "range_max": 1,
+        "range_min": 0.75,
+        "score": -78.13,
+        "test_result": "FAIL"
+      }
+    },
+    "D65_20lux": {
+      "0.9F": {
+        "current_value": 0.57025,
+        "path": "D:\\test\\ImageDB\\imx351_sharkL3_v0\\test\\output\\uniformity_D65@700Lux",
+        "range_max": 1,
+        "range_min": 0.75,
+        "score": 71.71,
+        "test_result": "FAIL"
+      }
+    }
+  },
+  "module": null,
+  "platform": null,
+  "root": "D:\\test\\ImageDB\\imx351_sharkL3_v0"
+}
