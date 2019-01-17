@@ -1,0 +1,34 @@
+{
+    "Status": {
+        "Params": "Common_LensShading_LNC_DNP_Light:[80, 90, [0,99]], Common_LensShading_ALSC_Bv2gainw_en:[1, 0, [0, 1]]",  #需要调的参数集修改的前后数据
+        "Result": [
+            ".../xxx.json",  #full test测试报告
+            "xxx/param_result.json" #unit test 测试报告
+        ]
+    },
+    "Message": {
+	    #需要调的接口以及要改的值
+        "Params": [
+            [
+                "Common_LensShading_LNC_DNP_Light",
+                90
+            ],
+            [
+                "Common_LensShading_ALSC_Bv2gainw_en",
+                0
+            ]
+        ],
+        "Cmd": "set",  #修改类型
+	#测试内容
+        "Test": {
+            "block_id": "unit test.json",  #单元测试内容
+            "Mode": 0, #0全测，1单元测试
+            "root": "D:/doc/CSD_repo/Auto_Tuning/ImageDB/", #根目录
+            #测试标准文件
+	    "Path": [
+                "Camera-IQ-Shading - v0.2.xlsx",  #全测试
+                "tst_img_list.json"  #全测试所需要的图片集
+            ]
+        }
+    }
+}

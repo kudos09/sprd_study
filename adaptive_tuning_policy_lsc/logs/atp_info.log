@@ -1,0 +1,177 @@
+2018-12-29 11:07:31,452 - atp_main - INFO log.py[:19] - loading logging config sucess
+2018-12-29 11:07:31,453 - lsc_main - INFO main_lsc.py[:111] - LSC program run
+2018-12-29 11:07:31,453 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2018-12-29 11:07:31,457 - atp_main - INFO log.py[:19] - loading logging config sucess
+2018-12-29 11:07:31,457 - lsc_main - INFO main_lsc.py[:100] - LSC program run
+2018-12-29 11:07:31,458 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2018-12-29 11:07:31,460 - lsc_main - INFO main_lsc.py[:123] - start lsc !!! 
+
+2018-12-29 11:07:31,460 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2018-12-29 11:07:31,466 - lsc_main - INFO main_lsc.py[:130] - end  lsc !!! 
+
+2018-12-29 11:07:31,466 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2018-12-29 11:11:47,893 - atp_main - INFO log.py[:19] - loading logging config sucess
+2018-12-29 11:11:47,893 - lsc_main - INFO main_lsc.py[:111] - LSC program run
+2018-12-29 11:11:47,893 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2018-12-29 11:11:47,893 - atp_main - INFO log.py[:19] - loading logging config sucess
+2018-12-29 11:11:47,893 - lsc_main - INFO main_lsc.py[:100] - LSC program run
+2018-12-29 11:11:47,893 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2018-12-29 11:11:47,893 - lsc_main - INFO main_lsc.py[:123] - start lsc !!! 
+
+2018-12-29 11:11:47,893 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2018-12-29 11:11:47,893 - lsc_main - INFO main_lsc.py[:130] - end  lsc !!! 
+
+2018-12-29 11:11:47,893 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2018-12-29 11:13:26,263 - atp_main - INFO log.py[:19] - loading logging config sucess
+2018-12-29 11:13:26,264 - lsc_main - INFO main_lsc.py[:100] - LSC program run
+2018-12-29 11:13:26,264 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2018-12-29 11:13:26,266 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2018-12-29 11:15:39,586 - atp_main - INFO log.py[:19] - loading logging config sucess
+2018-12-29 11:15:39,586 - lsc_main - INFO main_lsc.py[:102] - LSC program run
+2018-12-29 11:15:39,586 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2018-12-29 11:15:39,586 - lsc_main - INFO main_lsc.py[:105] - start lsc !!! 
+
+2018-12-29 11:15:39,601 - lsc_main - INFO main_lsc.py[:112] - end  lsc !!! 
+
+2018-12-29 11:15:39,601 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2018-12-29 11:15:39,601 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2018-12-29 11:17:02,633 - atp_main - INFO log.py[:19] - loading logging config sucess
+2018-12-29 11:17:02,634 - lsc_main - INFO main_lsc.py[:102] - LSC program run
+2018-12-29 11:17:02,634 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2018-12-29 11:17:02,636 - lsc_main - INFO main_lsc.py[:105] - start lsc !!! 
+
+2018-12-29 11:17:02,641 - lsc_main - INFO main_lsc.py[:112] - end  lsc !!! 
+
+2018-12-29 11:17:02,642 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2018-12-29 11:17:02,642 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2018-12-29 11:17:31,801 - atp_main - INFO log.py[:19] - loading logging config sucess
+2018-12-29 11:17:31,801 - lsc_main - INFO main_lsc.py[:102] - LSC program run
+2018-12-29 11:17:31,801 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2018-12-29 11:17:31,801 - lsc_main - INFO main_lsc.py[:105] - start lsc !!! 
+
+2018-12-29 11:17:31,801 - lsc_main - INFO main_lsc.py[:112] - end  lsc !!! 
+
+2018-12-29 11:17:31,801 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2018-12-29 11:17:31,801 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2018-12-29 11:17:48,814 - atp_main - INFO log.py[:19] - loading logging config sucess
+2018-12-29 11:17:48,815 - lsc_main - INFO main_lsc.py[:102] - LSC program run
+2018-12-29 11:17:48,815 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2018-12-29 11:17:48,816 - lsc_main - INFO main_lsc.py[:105] - start lsc !!! 
+
+2018-12-29 11:17:48,821 - lsc_main - INFO main_lsc.py[:112] - end  lsc !!!
+2018-12-29 11:17:48,822 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2018-12-29 11:17:48,822 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2018-12-29 11:25:47,373 - atp_main - INFO log.py[:19] - loading logging config sucess
+2018-12-29 11:25:47,373 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2018-12-29 11:25:47,373 - lsc_main - INFO main_lsc.py[:115] - start lsc !!! 
+
+2018-12-29 11:25:47,388 - lsc_main - INFO main_lsc.py[:122] - end  lsc !!!
+2018-12-29 11:25:47,388 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2018-12-29 11:25:47,388 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2018-12-29 11:30:30,843 - atp_main - INFO log.py[:19] - loading logging config sucess
+2018-12-29 11:30:30,844 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2018-12-29 11:30:30,845 - lsc_main - INFO main_lsc.py[:116] - start lsc !!! 
+
+2018-12-29 11:30:30,851 - lsc_main - INFO main_lsc.py[:123] - end  lsc !!!
+2018-12-29 11:30:30,851 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2018-12-29 11:30:30,851 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2018-12-29 11:30:37,681 - atp_main - INFO log.py[:19] - loading logging config sucess
+2018-12-29 11:30:37,681 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2018-12-29 11:30:37,681 - lsc_main - INFO main_lsc.py[:116] - start lsc !!! 
+
+2018-12-29 11:30:37,681 - lsc_main - INFO main_lsc.py[:123] - end  lsc !!!
+2018-12-29 11:30:37,681 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2018-12-29 11:30:37,681 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2019-01-02 14:07:31,615 - atp_main - INFO log.py[:19] - loading logging config sucess
+2019-01-02 14:07:31,646 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2019-01-02 14:07:31,646 - lsc_main - INFO main_lsc.py[:116] - start lsc !!! 
+
+2019-01-02 14:07:31,646 - lsc_main - INFO main_lsc.py[:123] - end  lsc !!!
+2019-01-02 14:07:31,646 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2019-01-02 14:07:31,646 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2019-01-02 14:18:30,666 - atp_main - INFO log.py[:19] - loading logging config sucess
+2019-01-02 14:18:30,666 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2019-01-02 14:18:30,666 - lsc_main - INFO main_lsc.py[:124] - start lsc !!! 
+
+2019-01-02 14:18:52,028 - atp_main - INFO log.py[:19] - loading logging config sucess
+2019-01-02 14:18:52,028 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2019-01-02 14:18:52,028 - lsc_main - INFO main_lsc.py[:124] - start lsc !!! 
+
+2019-01-02 14:19:34,965 - atp_main - INFO log.py[:19] - loading logging config sucess
+2019-01-02 14:19:34,965 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2019-01-02 14:19:34,980 - lsc_main - INFO main_lsc.py[:125] - start lsc !!! 
+
+2019-01-02 14:19:56,764 - atp_main - INFO log.py[:19] - loading logging config sucess
+2019-01-02 14:19:56,764 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2019-01-02 14:19:56,764 - lsc_main - INFO main_lsc.py[:125] - start lsc !!! 
+
+2019-01-02 14:22:32,909 - atp_main - INFO log.py[:19] - loading logging config sucess
+2019-01-02 14:22:32,909 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2019-01-02 14:22:32,909 - lsc_main - INFO main_lsc.py[:125] - start lsc !!! 
+
+2019-01-02 14:23:02,115 - atp_main - INFO log.py[:19] - loading logging config sucess
+2019-01-02 14:23:02,115 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2019-01-02 14:23:02,115 - lsc_main - INFO main_lsc.py[:125] - start lsc !!! 
+
+2019-01-02 14:24:02,958 - atp_main - INFO log.py[:19] - loading logging config sucess
+2019-01-02 14:24:02,958 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2019-01-02 14:24:02,958 - lsc_main - INFO main_lsc.py[:125] - start lsc !!! 
+
+2019-01-02 14:24:46,733 - atp_main - INFO log.py[:19] - loading logging config sucess
+2019-01-02 14:24:46,733 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2019-01-02 14:24:46,733 - lsc_main - INFO main_lsc.py[:131] - start lsc !!! 
+
+2019-01-02 14:25:11,815 - atp_main - INFO log.py[:19] - loading logging config sucess
+2019-01-02 14:25:11,815 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2019-01-02 14:25:11,815 - lsc_main - INFO main_lsc.py[:131] - start lsc !!! 
+
+2019-01-02 14:26:04,141 - atp_main - INFO log.py[:19] - loading logging config sucess
+2019-01-02 14:26:04,141 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2019-01-02 14:26:04,141 - lsc_main - INFO main_lsc.py[:132] - start lsc !!! 
+
+2019-01-02 16:10:29,615 - atp_main - INFO log.py[:19] - loading logging config sucess
+2019-01-02 16:10:29,678 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2019-01-02 16:10:29,678 - lsc_main - INFO main_lsc.py[:122] - start lsc !!! 
+
+2019-01-02 16:10:29,709 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2019-01-02 16:10:29,725 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2019-01-02 16:11:21,644 - atp_main - INFO log.py[:19] - loading logging config sucess
+2019-01-02 16:11:21,644 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2019-01-02 16:11:21,644 - lsc_main - INFO main_lsc.py[:122] - start lsc !!! 
+
+2019-01-02 16:11:21,660 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2019-01-02 16:11:21,660 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2019-01-02 16:11:51,371 - atp_main - INFO log.py[:19] - loading logging config sucess
+2019-01-02 16:11:51,371 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2019-01-02 16:11:51,371 - lsc_main - INFO main_lsc.py[:122] - start lsc !!! 
+
+2019-01-02 16:11:51,433 - lsc_main - INFO main_lsc.py[:129] - end  lsc !!!
+2019-01-02 16:11:51,433 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2019-01-02 16:11:51,433 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2019-01-02 16:12:22,158 - atp_main - INFO log.py[:19] - loading logging config sucess
+2019-01-02 16:12:22,158 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2019-01-02 16:12:22,158 - lsc_main - INFO main_lsc.py[:122] - start lsc !!! 
+
+2019-01-02 16:12:22,158 - lsc_main - INFO main_lsc.py[:129] - end  lsc !!!
+2019-01-02 16:12:22,158 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2019-01-02 16:12:22,158 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2019-01-02 16:12:35,182 - atp_main - INFO log.py[:19] - loading logging config sucess
+2019-01-02 16:12:35,182 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2019-01-02 16:12:35,182 - lsc_main - INFO main_lsc.py[:122] - start lsc !!! 
+
+2019-01-02 16:12:35,198 - lsc_main - INFO main_lsc.py[:129] - end  lsc !!!
+2019-01-02 16:12:35,198 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2019-01-02 16:12:35,198 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2019-01-02 16:12:49,081 - atp_main - INFO log.py[:19] - loading logging config sucess
+2019-01-02 16:12:49,081 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2019-01-02 16:12:49,081 - lsc_main - INFO main_lsc.py[:122] - start lsc !!! 
+
+2019-01-02 16:12:49,081 - lsc_main - INFO main_lsc.py[:129] - end  lsc !!!
+2019-01-02 16:12:49,081 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2019-01-02 16:12:49,081 - atp_main - INFO atp_main.py[:14] - AtpControl exit
+2019-01-02 16:13:13,399 - atp_main - INFO log.py[:19] - loading logging config sucess
+2019-01-02 16:13:13,399 - atp_main - INFO atp_main.py[:10] - AtpControl enter
+2019-01-02 16:13:13,399 - lsc_main - INFO main_lsc.py[:122] - start lsc !!! 
+
+2019-01-02 16:13:13,399 - lsc_main - INFO main_lsc.py[:129] - end  lsc !!!
+2019-01-02 16:13:13,399 - atp_main - INFO atp_main.py[:14] - AtpControl exit

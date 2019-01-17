@@ -1,0 +1,231 @@
+{
+    "Common": {
+        "Env": {
+            "FW": "xxx-xxx-xxx",
+            "Module_Config": {
+                "bayer_pattern": "rggb",
+                "min_gain": 1,
+                "i32Height": 3492,
+                "strSensorName": "imx351",
+                "i32Width": 4656,
+                "max_gain": 16,
+                "endian": 0
+            },
+            "Index": "v0",
+            "strRootPath": "D:/doc/CSD_repo/Auto_Tuning/ImageDB/",
+            "Platform": "9863",
+            "strXmlPath": "D:/doc/CSD_repo/Auto_Tuning/ImageDB/\\result"
+        },
+        "Status": {
+            "i8pre_gbl_gain": 0,
+            "i8ccnr": 0,
+            "i8cceuvdiv": 0,
+            "i8af": 0,
+            "i8hsv": 0,
+            "i83dnr_pre": 0,
+            "i8ynr": 0,
+            "i8cmc10": 0,
+            "i8hist2": 0,
+            "i8y_gamma": 0,
+            "i8yiq_afl_v3": 0,
+            "i8bayernr": 0,
+            "i8hist": 0,
+            "i8noisefilter": 0,
+            "i8posterize": 0,
+            "i8precdn": 0,
+            "i8rgb_afm": 0,
+            "i8lsc_2d": 0,
+            "i8lsc_1d": 0,
+            "i8cfai": 0,
+            "i8bright": 0,
+            "i8hue": 0,
+            "i8yiq_afl_v1": 0,
+            "i8cdn": 0,
+            "i8blc": 0,
+            "i8nlc": 0,
+            "i8pdaf_extract": 0,
+            "i8contrast": 0,
+            "i8rgb_dither": 0,
+            "i8ae": 0,
+            "i8bin": 0,
+            "i8ee": 0,
+            "i8rgb_gain": 0,
+            "i83dnr_cap": 0,
+            "i8rgb_gamma": 0,
+            "i8postcdn": 0,
+            "i8grgb": 0,
+            "i8awb": 0,
+            "i8bpc": 0,
+            "i8saturation": 0
+        },
+        "LensShading": {
+            "LNC": [
+                {
+                    "strLsRefLightName": "DNP",
+                    "i32Grid": 128,
+                    "i32Lpf_Radius": 16,
+                    "i32light": [
+                        90,
+                        [
+                            0,
+                            99,
+                            1
+                        ]
+                    ]
+                },
+                {
+                    "strLsRefLightName": "A",
+                    "i32Grid": 128,
+                    "i32Lpf_Radius": 16,
+                    "i32light": [
+                        90,
+                        [
+                            0,
+                            99,
+                            1
+                        ]
+                    ]
+                },
+                {
+                    "strLsRefLightName": "TL84",
+                    "i32Grid": 128,
+                    "i32Lpf_Radius": 16,
+                    "i32light": [
+                        90,
+                        [
+                            0,
+                            99,
+                            1
+                        ]
+                    ]
+                },
+                {
+                    "strLsRefLightName": "D65",
+                    "i32Grid": 128,
+                    "i32Lpf_Radius": 16,
+                    "i32light": [
+                        90,
+                        [
+                            0,
+                            99,
+                            1
+                        ]
+                    ]
+                },
+                {
+                    "strLsRefLightName": "CWF",
+                    "i32Grid": 128,
+                    "i32Lpf_Radius": 16,
+                    "i32light": [
+                        90,
+                        [
+                            0,
+                            99,
+                            1
+                        ]
+                    ]
+                }
+            ],
+            "ALSC": {
+                "i8user_mode": 0,
+                "i32flash_enhance_gain": 0,
+                "i8weight_r": [
+                    40,
+                    [
+                        1,
+                        100,
+                        5
+                    ]
+                ],
+                "i8iir_weight": [
+                    5,
+                    [
+                        1,
+                        16,
+                        1
+                    ]
+                ],
+                "i8vote_length": 10,
+                "i8level_b": [
+                    10,
+                    [
+                        1,
+                        100,
+                        5
+                    ]
+                ],
+                "i8alg_mode": 0,
+                "li32bv2gainw_b_gainw": [
+                    [
+                        300,
+                        400,
+                        600,
+                        800,
+                        1024,
+                        1024
+                    ],
+                    [
+                        0,
+                        1024,
+                        64
+                    ]
+                ],
+                "i8bv2gainw_en": [
+                    1,
+                    [
+                        0,
+                        1,
+                        1
+                    ]
+                ],
+                "i32init_post_gain": 1024,
+                "i8vote_threshold": 8,
+                "i8spd_ver": 4,
+                "i8level_r": [
+                    10,
+                    [
+                        1,
+                        100,
+                        5
+                    ]
+                ],
+                "i8table_base_index": 2,
+                "li32bv2gainw_p_bv": [
+                    [
+                        0,
+                        150,
+                        200,
+                        250,
+                        300,
+                        1600
+                    ],
+                    [
+                        0,
+                        8000,
+                        64
+                    ]
+                ],
+                "i8freq": [
+                    3,
+                    [
+                        1,
+                        16,
+                        1
+                    ]
+                ],
+                "i8init_skip_frame": 5,
+                "i32color_shading_off_bv": 0,
+                "i8smart_iir": 2,
+                "i8weight_b": [
+                    40,
+                    [
+                        1,
+                        100,
+                        5
+                    ]
+                ],
+                "i32flash_postgain_thresh": 0
+            }
+        }
+    }
+}

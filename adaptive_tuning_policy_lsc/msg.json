@@ -1,0 +1,54 @@
+{
+    "Status": {
+        "Params": "glb_fjsn['Common']['Status']['i8bright']:[0, 1, [0,1]], glb_fjsn['Common']['LensShading']['LNC'][0]['i32Lpf_Radius']:[16, 8, [0, 16]]",
+        "Result": [
+            ".../xxx.json",
+            "xxx/param_result.json"
+        ]
+    },
+    "Message": {
+        "Test": {
+            "Path": [
+                "Camera-IQ-Shading - v0.2.xlsx",
+                "tst_img_list.json"
+            ],
+            "root": "D:/doc/CSD_repo/Auto_Tuning/ImageDB/",
+            "block_id": "unit test.json",
+            "Mode": 0
+        },
+        "Params": [
+            [
+                "Common_LensShading_LNC_DNP_Light",
+                [
+                    "Common",
+                    "LensShading",
+                    "LNC",
+                    5,
+                    "i32light",
+                    0
+                ],
+                6,
+                1,
+                [
+                    "isp_gen_lsc_gain_table"
+                ]
+            ],
+            [
+                "Common_LensShading_ALSC_Bv2gainw_en",
+                [
+                    "Common",
+                    "LensShading",
+                    "ALSC",
+                    "i8bv2gainw_en",
+                    0
+                ],
+                5,
+                0,
+                [
+                    "isp_get_alsc_param"
+                ]
+            ]
+        ],
+        "Cmd": "set"
+    }
+}

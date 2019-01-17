@@ -1,0 +1,54 @@
+{
+    "Status": {
+        "Params": [
+            [
+                "Common_LensShading_LNC_DNP_Light",
+                [
+                    80,
+                    90,
+                    [
+                        0,
+                        99
+                    ]
+                ]
+            ],
+            [
+                "Common_LensShading_ALSC_Bv2gainw_en",
+                [
+                    1,
+                    0,
+                    [
+                        0,
+                        1
+                    ]
+                ]
+            ]
+        ],
+        "Result": [
+            ".../xxx.json",
+            "xxx/param_result.json"
+        ]
+    },
+    "Message": {
+        "Params": [
+            [
+                "Common_LensShading_LNC_DNP_Light",
+                90
+            ],
+            [
+                "Common_LensShading_ALSC_Bv2gainw_en",
+                0
+            ]
+        ],
+        "Test": {
+            "Mode": 0,
+            "Path": [
+                "Camera-IQ-Shading - v0.2.xlsx",
+                "tst_img_list.json"
+            ],
+            "root": "D:/doc/CSD_repo/Auto_Tuning/ImageDB/",
+            "block_id": "unit test.json"
+        },
+        "Cmd": "set"
+    }
+}
