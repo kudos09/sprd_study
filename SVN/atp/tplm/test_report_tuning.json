@@ -1,0 +1,714 @@
+{
+  "3A": null,
+  "Color-Shading": {
+    "A_20lux": {
+      "B/G Max": {
+        "current_value": 1.021,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_A_20Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -96.5,
+        "test_result": "PASS"
+      },
+      "B/G Min": {
+        "current_value": 0.9318,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_A_20Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": 75.9,
+        "test_result": "PASS"
+      },
+      "R/G Max": {
+        "current_value": 1.041,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_A_20Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -89.5,
+        "test_result": "PASS"
+      },
+      "R/G Min": {
+        "current_value": 1.002,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_A_20Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -99.67,
+        "test_result": "PASS"
+      }
+    },
+    "A_300lux": {
+      "B/G Max": {
+        "current_value": 1.021,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_A_300Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -96.5,
+        "test_result": "PASS"
+      },
+      "B/G Min": {
+        "current_value": 0.9318,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_A_300Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": 75.9,
+        "test_result": "PASS"
+      },
+      "R/G Max": {
+        "current_value": 1.041,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_A_300Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -89.5,
+        "test_result": "PASS"
+      },
+      "R/G Min": {
+        "current_value": 1.002,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_A_300Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -99.67,
+        "test_result": "PASS"
+      }
+    },
+    "A_700lux": {
+      "B/G Max": {
+        "current_value": 1.021,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_A_700Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -96.5,
+        "test_result": "PASS"
+      },
+      "B/G Min": {
+        "current_value": 0.9318,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_A_700Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": 75.9,
+        "test_result": "PASS"
+      },
+      "R/G Max": {
+        "current_value": 1.041,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_A_700Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -89.5,
+        "test_result": "PASS"
+      },
+      "R/G Min": {
+        "current_value": 1.002,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_A_700Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -99.67,
+        "test_result": "PASS"
+      }
+    },
+    "CWF_20lux": {
+      "B/G Max": {
+        "current_value": 1.021,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_CWF_20Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -96.5,
+        "test_result": "PASS"
+      },
+      "B/G Min": {
+        "current_value": 0.9318,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_CWF_20Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": 75.9,
+        "test_result": "PASS"
+      },
+      "R/G Max": {
+        "current_value": 1.041,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_CWF_20Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -89.5,
+        "test_result": "PASS"
+      },
+      "R/G Min": {
+        "current_value": 1.002,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_CWF_20Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -99.67,
+        "test_result": "PASS"
+      }
+    },
+    "CWF_300lux": {
+      "B/G Max": {
+        "current_value": 1.021,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_CWF_300Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -96.5,
+        "test_result": "PASS"
+      },
+      "B/G Min": {
+        "current_value": 0.9318,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_CWF_300Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": 75.9,
+        "test_result": "PASS"
+      },
+      "R/G Max": {
+        "current_value": 1.041,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_CWF_300Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -89.5,
+        "test_result": "PASS"
+      },
+      "R/G Min": {
+        "current_value": 1.002,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_CWF_300Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -99.67,
+        "test_result": "PASS"
+      }
+    },
+    "CWF_700lux": {
+      "B/G Max": {
+        "current_value": 1.021,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_CWF_700Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -96.5,
+        "test_result": "PASS"
+      },
+      "B/G Min": {
+        "current_value": 0.9318,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_CWF_700Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": 75.9,
+        "test_result": "PASS"
+      },
+      "R/G Max": {
+        "current_value": 1.041,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_CWF_700Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -89.5,
+        "test_result": "PASS"
+      },
+      "R/G Min": {
+        "current_value": 1.002,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_CWF_700Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -99.67,
+        "test_result": "PASS"
+      }
+    },
+    "D50_20lux": {
+      "B/G Max": {
+        "current_value": 1.021,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_D50_20Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -96.5,
+        "test_result": "PASS"
+      },
+      "B/G Min": {
+        "current_value": 0.9318,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_D50_20Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": 75.9,
+        "test_result": "PASS"
+      },
+      "R/G Max": {
+        "current_value": 1.041,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_D50_20Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -89.5,
+        "test_result": "PASS"
+      },
+      "R/G Min": {
+        "current_value": 1.002,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_D50_20Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -99.67,
+        "test_result": "PASS"
+      }
+    },
+    "D50_300lux": {
+      "B/G Max": {
+        "current_value": 1.021,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_D50_300Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -96.5,
+        "test_result": "PASS"
+      },
+      "B/G Min": {
+        "current_value": 0.9318,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_D50_300Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": 75.9,
+        "test_result": "PASS"
+      },
+      "R/G Max": {
+        "current_value": 1.041,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_D50_300Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -89.5,
+        "test_result": "PASS"
+      },
+      "R/G Min": {
+        "current_value": 1.002,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_D50_300Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -99.67,
+        "test_result": "PASS"
+      }
+    },
+    "D50_700lux": {
+      "B/G Max": {
+        "current_value": 1.021,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_D50_700Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -96.5,
+        "test_result": "PASS"
+      },
+      "B/G Min": {
+        "current_value": 0.9318,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_D50_700Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": 75.9,
+        "test_result": "PASS"
+      },
+      "R/G Max": {
+        "current_value": 1.041,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_D50_700Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -89.5,
+        "test_result": "PASS"
+      },
+      "R/G Min": {
+        "current_value": 1.002,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_D50_700Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -99.67,
+        "test_result": "PASS"
+      }
+    },
+    "D65_300lux": {
+      "B/G Max": {
+        "current_value": 1.021,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_D65_300Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -96.5,
+        "test_result": "PASS"
+      },
+      "B/G Min": {
+        "current_value": 0.9318,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_D65_300Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": 75.9,
+        "test_result": "PASS"
+      },
+      "R/G Max": {
+        "current_value": 1.041,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_D65_300Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -89.5,
+        "test_result": "PASS"
+      },
+      "R/G Min": {
+        "current_value": 1.002,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_D65_300Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -99.67,
+        "test_result": "PASS"
+      }
+    },
+    "D65_700lux": {
+      "B/G Max": {
+        "current_value": 1.021,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_D65_700Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -96.5,
+        "test_result": "PASS"
+      },
+      "B/G Min": {
+        "current_value": 0.9318,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_D65_700Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": 75.9,
+        "test_result": "PASS"
+      },
+      "R/G Max": {
+        "current_value": 1.041,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_D65_700Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -89.5,
+        "test_result": "PASS"
+      },
+      "R/G Min": {
+        "current_value": 1.002,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_D65_700Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -99.67,
+        "test_result": "PASS"
+      }
+    },
+    "H_20lux": {
+      "B/G Max": {
+        "current_value": 1.021,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_H_20Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -96.5,
+        "test_result": "PASS"
+      },
+      "B/G Min": {
+        "current_value": 0.9318,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_H_20Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": 75.9,
+        "test_result": "PASS"
+      },
+      "R/G Max": {
+        "current_value": 1.041,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_H_20Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -89.5,
+        "test_result": "PASS"
+      },
+      "R/G Min": {
+        "current_value": 1.002,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_H_20Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -99.67,
+        "test_result": "PASS"
+      }
+    },
+    "H_300lux": {
+      "B/G Max": {
+        "current_value": 1.021,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_H_300Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -96.5,
+        "test_result": "PASS"
+      },
+      "B/G Min": {
+        "current_value": 0.9318,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_H_300Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": 75.9,
+        "test_result": "PASS"
+      },
+      "R/G Max": {
+        "current_value": 1.041,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_H_300Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -89.5,
+        "test_result": "PASS"
+      },
+      "R/G Min": {
+        "current_value": 1.002,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_H_300Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -99.67,
+        "test_result": "PASS"
+      }
+    },
+    "TL84_20lux": {
+      "B/G Max": {
+        "current_value": 1.021,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_TL84_20Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -96.5,
+        "test_result": "PASS"
+      },
+      "B/G Min": {
+        "current_value": 0.9318,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_TL84_20Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": 75.9,
+        "test_result": "PASS"
+      },
+      "R/G Max": {
+        "current_value": 1.041,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_TL84_20Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -89.5,
+        "test_result": "PASS"
+      },
+      "R/G Min": {
+        "current_value": 1.002,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_TL84_20Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -99.67,
+        "test_result": "PASS"
+      }
+    },
+    "TL84_300lux": {
+      "B/G Max": {
+        "current_value": 1.021,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_TL84_300Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -96.5,
+        "test_result": "PASS"
+      },
+      "B/G Min": {
+        "current_value": 0.9318,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_TL84_300Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": 75.9,
+        "test_result": "PASS"
+      },
+      "R/G Max": {
+        "current_value": 1.041,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_TL84_300Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -89.5,
+        "test_result": "PASS"
+      },
+      "R/G Min": {
+        "current_value": 1.002,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_TL84_300Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -99.67,
+        "test_result": "PASS"
+      }
+    },
+    "TL84_700lux": {
+      "B/G Max": {
+        "current_value": 1.021,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_TL84_700Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -96.5,
+        "test_result": "PASS"
+      },
+      "B/G Min": {
+        "current_value": 0.9318,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_TL84_700Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": 75.9,
+        "test_result": "PASS"
+      },
+      "R/G Max": {
+        "current_value": 1.041,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_TL84_700Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -89.5,
+        "test_result": "PASS"
+      },
+      "R/G Min": {
+        "current_value": 1.002,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_TL84_700Lux",
+        "range_max": 1.1,
+        "range_min": 0.9,
+        "score": -99.67,
+        "test_result": "PASS"
+      }
+    }
+  },
+  "Y-Shading": {
+    "A_20lux": {
+      "0.9F": {
+        "current_value": 0.85674,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_A_20Lux",
+        "range_max": 1.0,
+        "range_min": 0.75,
+        "score": 77.79,
+        "test_result": "PASS"
+      }
+    },
+    "A_300lux": {
+      "0.9F": {
+        "current_value": 0.85674,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_A_300Lux",
+        "range_max": 1.0,
+        "range_min": 0.75,
+        "score": 77.79,
+        "test_result": "PASS"
+      }
+    },
+    "A_700lux": {
+      "0.9F": {
+        "current_value": 0.85674,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_A_700Lux",
+        "range_max": 1.0,
+        "range_min": 0.75,
+        "score": 77.79,
+        "test_result": "PASS"
+      }
+    },
+    "CWF_20lux": {
+      "0.9F": {
+        "current_value": 0.85674,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_CWF_20Lux",
+        "range_max": 1.0,
+        "range_min": 0.75,
+        "score": 77.79,
+        "test_result": "PASS"
+      }
+    },
+    "CWF_300lux": {
+      "0.9F": {
+        "current_value": 0.85674,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_CWF_300Lux",
+        "range_max": 1.0,
+        "range_min": 0.75,
+        "score": 77.79,
+        "test_result": "PASS"
+      }
+    },
+    "CWF_700lux": {
+      "0.9F": {
+        "current_value": 0.85674,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_CWF_700Lux",
+        "range_max": 1.0,
+        "range_min": 0.75,
+        "score": 77.79,
+        "test_result": "PASS"
+      }
+    },
+    "D50_20lux": {
+      "0.9F": {
+        "current_value": 0.85674,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_D50_20Lux",
+        "range_max": 1.0,
+        "range_min": 0.75,
+        "score": 77.79,
+        "test_result": "PASS"
+      }
+    },
+    "D50_300lux": {
+      "0.9F": {
+        "current_value": 0.85674,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_D50_300Lux",
+        "range_max": 1.0,
+        "range_min": 0.75,
+        "score": 77.79,
+        "test_result": "PASS"
+      }
+    },
+    "D50_700lux": {
+      "0.9F": {
+        "current_value": 0.85674,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_D50_700Lux",
+        "range_max": 1.0,
+        "range_min": 0.75,
+        "score": 77.79,
+        "test_result": "PASS"
+      }
+    },
+    "D65_300lux": {
+      "0.9F": {
+        "current_value": 0.85674,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_D65_300Lux",
+        "range_max": 1.0,
+        "range_min": 0.75,
+        "score": 77.79,
+        "test_result": "PASS"
+      }
+    },
+    "D65_700lux": {
+      "0.9F": {
+        "current_value": 0.85674,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_D65_700Lux",
+        "range_max": 1.0,
+        "range_min": 0.75,
+        "score": 77.79,
+        "test_result": "PASS"
+      }
+    },
+    "H_20lux": {
+      "0.9F": {
+        "current_value": 0.85674,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_H_20Lux",
+        "range_max": 1.0,
+        "range_min": 0.75,
+        "score": 77.79,
+        "test_result": "PASS"
+      }
+    },
+    "H_300lux": {
+      "0.9F": {
+        "current_value": 0.85674,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_H_300Lux",
+        "range_max": 1.0,
+        "range_min": 0.75,
+        "score": 77.79,
+        "test_result": "PASS"
+      }
+    },
+    "TL84_20lux": {
+      "0.9F": {
+        "current_value": 0.85674,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_TL84_20Lux",
+        "range_max": 1.0,
+        "range_min": 0.75,
+        "score": 77.79,
+        "test_result": "PASS"
+      }
+    },
+    "TL84_300lux": {
+      "0.9F": {
+        "current_value": 0.85674,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_TL84_300Lux",
+        "range_max": 1.0,
+        "range_min": 0.75,
+        "score": 77.79,
+        "test_result": "PASS"
+      }
+    },
+    "TL84_700lux": {
+      "0.9F": {
+        "current_value": 0.85674,
+        "path": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432\\test\\output\\uniformity_TL84_700Lux",
+        "range_max": 1.0,
+        "range_min": 0.75,
+        "score": 77.79,
+        "test_result": "PASS"
+      }
+    }
+  },
+  "module": null,
+  "platform": null,
+  "root": "D:\\lingling\\ai_auto_test\\AutoTuning\\ImageDB\\imm_SharkL3_11#20190114175432"
+}

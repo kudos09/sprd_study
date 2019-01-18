@@ -1,0 +1,118 @@
+{
+  "flag":
+  {
+    "option": 1
+  },
+  "pre_check":
+  {
+    "Common_LensShading_ALNC_Sprd_ver": {
+      "config_value": 5,
+      "value": 4
+      },
+    "Common_LensShading_ALNC_alg_mode": {
+      "config_value": 1,
+      "value": 1
+    }
+  },
+  "test_result":
+  {
+    "lsc.Y-Shading.D65.700lux.worst": {
+      "测试标准": 75.0,
+      "测试结果": 65.0,
+      "score": 46.5
+    },
+    "lsc.Y-Shading.A.300lux.worst": {
+      "测试标准": 75.0,
+      "测试结果": 85.0,
+      "score": -86.5
+    },
+    "lsc.Y-Shading.CWF.700lux.worst": {
+      "测试标准": 75.0,
+      "测试结果": 95.0,
+      "score": -96.5
+    },
+    "lsc.Y-Shading.D50.20lux.worst": {
+      "测试标准": 75.0,
+      "测试结果": 78.0,
+      "score": 66.5
+    },
+  	  "lsc.Color-Shading.CWF.700lux.R/G_Max": {
+      "测试标准": [0.9,1.10],
+      "测试结果": 1.2,
+      "score": -90.5
+    },
+  	  "lsc.Color-Shading.CWF.700lux.R/G_Min": {
+      "测试标准": [0.9,1.10],
+      "测试结果": 0.6,
+      "score": 96.5
+    },
+  	  "lsc.Color-Shading.CWF.700lux.B/G_Max": {
+      "测试标准": [0.9,1.10],
+      "测试结果": 1.1,
+      "score": 60.0
+    },
+  	  "lsc.Color-Shading.CWF.700lux.B/G_Min": {
+      "测试标准": [0.9,1.10],
+      "测试结果": 1.0,
+      "score": 100.0
+    }
+  },
+  "tpl_param":
+  {
+    "Common_LensShading_Tuning_stardand": {
+      "Y-Shading_stardand": 75,
+      "Color-Shading_stardand_Min": 1.000,
+      "Color-Shading_stardand_Max": 1.000
+    },
+      "Common_LensShading_Tuning_order":[
+"lsc.Y-Shading.CWF.700lux.worst",  "lsc.Y-Shading.CWF.300lux.worst",
+"lsc.Y-Shading.TL84.700lux.worst",  "lsc.Y-Shading.TL84.300lux.worst",
+"lsc.Y-Shading.D50.700lux.worst",  "lsc.Y-Shading.D50.300lux.worst",
+"lsc.Y-Shading.D65.700lux.worst",  "lsc.Y-Shading.D65.300lux.worst",
+"lsc.Y-Shading.A.700lux.worst",  "lsc.Y-Shading.A.300lux.worst",
+"lsc.Y-Shading.H.300lux.worst",  "lsc.Color-Shading.CWF.700lux",
+"lsc.Color-Shading.CWF.300lux",  "lsc.Color-Shading.TL84.700lux",
+"lsc.Color-Shading.TL84.300lux",  "lsc.Color-Shading.D50.700lux",
+"lsc.Color-Shading.D50.300lux",  "lsc.Color-Shading.D65.700lux",
+"lsc.Color-Shading.D65.300lux",  "lsc.Color-Shading.A.700lux",
+"lsc.Color-Shading.A.300lux",  "lsc.Color-Shading.H.300lux",
+"lsc.Y-Shading.CWF.20lux.worst",  "lsc.Y-Shading.D50.20lux.worst",
+"lsc.Y-Shading.TL84.20lux.worst",  "lsc.Y-Shading.A.20lux.worst",
+"lsc.Y-Shading.H.20lux.worst",  "lsc.Color-Shading.TL84.700lux",
+"lsc.Color-Shading.D50.20lux",  "lsc.Color-Shading.TL84.20lux",
+"lsc.Color-Shading.A.20lux",  "lsc.Color-Shading.H.20lux"]
+  },
+  "tinning_param":
+  {
+    "Common_LensShading_LNC_DNP_Light": {
+      "value": 80,
+      "range": [0,99],
+      "step": 1
+    },
+    "Common_LensShading_LNC_A_Light": {
+      "value": 80,
+      "range": [0,99],
+      "step": 1
+    },
+  	  "Common_LensShading_LNC_D65_Light": {
+      "value": 80,
+      "range": [0,99],
+      "step": 1
+    },
+    "Common_LensShading_LNC_CWF_Light": {
+      "value": 80,
+      "range": [0,99],
+      "step": 1
+    },
+    "Common_LensShading_LNC_FL84_Light": {
+      "value": 80,
+      "range": [0,99],
+      "step": 1
+    },
+    "Common_LensShading_LNC_H_Light": {
+      "value": 80,
+      "range": [0,99],
+      "step": 1
+    }
+  }
+ }
